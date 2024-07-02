@@ -4,3 +4,9 @@ The `take_recipe()` function asks for input from the user: a recipe name, a cook
 After all the recipes are displayed, all the ingedients across the different recipes are also displayed.
 
 ## Task Images
+![](https://github.com/justin-yin-ly/python-immersion/blob/main/E1.3/img/steps-1thru4.PNG)
+![](https://github.com/justin-yin-ly/python-immersion/blob/main/E1.3/img/step-5.PNG)
+![](https://github.com/justin-yin-ly/python-immersion/blob/main/E1.3/img/step-6.PNG)
+![](https://github.com/justin-yin-ly/python-immersion/blob/main/E1.3/img/step-6a.PNG)
+![](https://github.com/justin-yin-ly/python-immersion/blob/main/E1.3/img/step-7.PNG)
+![](https://github.com/justin-yin-ly/python-immersion/blob/main/E1.3/img/step-7a.PNG)
