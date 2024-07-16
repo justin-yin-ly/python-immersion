@@ -3,7 +3,7 @@ For this exercise, I've created [another repository](https://github.com/justin-y
 
 ## Task Images
 ![](https://github.com/justin-yin-ly/python-immersion/blob/main/E2.3/img/recipe_app_schema.PNG)
-![](https://github.com/justin-yin-ly/python-immersion/blob/main/E2.3/img/project_structure.PNG)
+![](https://github.com/justin-yin-ly/python-immersion/blob/main/E2.3/img/project_structure.png)
 ![](https://github.com/justin-yin-ly/python-immersion/blob/main/E2.3/img/run_migrations.PNG)
 ![](https://github.com/justin-yin-ly/python-immersion/blob/main/E2.3/img/test_report.PNG)
 ![](https://github.com/justin-yin-ly/python-immersion/blob/main/E2.3/img/recipe_add_tea.PNG)
