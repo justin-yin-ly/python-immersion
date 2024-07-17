@@ -4,6 +4,7 @@ from django.db import models
 class Salesperson(models.Model):
     username=models.CharField(max_length=120)
     name=models.CharField(max_length=120)
+    pic = models.ImageField(upload_to='salespersons',default='no_picture.jpg')
     bio=models.TextField()
 
     def __str__(self):
